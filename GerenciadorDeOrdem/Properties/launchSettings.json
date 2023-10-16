@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GerenciadorDeOrdem": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\dnlus\\OneDrive\\Documentos\\GitHub\\WindowsForms\\GerenciadorDeOrdem\\GerenciadorDeOrdem\\"
+    }
+  }
+}
